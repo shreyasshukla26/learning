@@ -1,0 +1,20 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2%;
+
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    font-size: larger;
+
+}
+nav{
+    width: 40vw;
+}
+img{
+    width: 95vw;
+    margin: 1rem;
+}
