@@ -47,7 +47,7 @@ let path = require("path");
 // console.log(fs.readFileSync(filePath,'utf-8'));
 
 // //D-delete
-// fs.unlinkSync(filePath);
+//fs.unlinkSync(filePath); 
 
 //Create a directory
 
