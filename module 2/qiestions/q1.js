@@ -5,6 +5,6 @@ let path = require("path");
 if(!fs.existsSync("newFolder")){
     fs.mkdirSync("newFolder");
 }
-let filepath = path.join(__dirname,"newfolder","newtextfile");
+let filepath = path.join(__dirname,"newfolder","newtextfile.txt");
 console.log(filepath);
 fs.writeFileSync(filepath, "new file has been made");
